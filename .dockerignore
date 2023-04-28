@@ -1,0 +1,14 @@
+**
+
+!prisma
+!public
+!src
+!types
+!.eslintrc.cjs
+!next.config.mjs
+!package.json
+!shell.nix
+!tsconfig.json
+!yarn.lock
+!.yarn
+!startup.sh
